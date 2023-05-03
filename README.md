@@ -1,5 +1,5 @@
 
-# Pest-Disease-Image-Classification
+# Blood Cell Type Prediction
 
 
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-11557c.svg?logo=python&logoColor=white"></a>
@@ -18,7 +18,7 @@ Apr 2023
 
   
 ## Project Goal
-In this project we will build a **deep learning** based image classification model using **convolutional neural network** to classify the pest occured in plants like Potato, Tomato, Bell pepper. 
+In this project we will build a **deep learning** based image classification model using **transfer learning** to classify the blood cell subtypes like EOSINOPHIL, NEUTROPHIL, BASOPHIL, LYMPHOCYTE.
   
  ## Setup for Python:
 
