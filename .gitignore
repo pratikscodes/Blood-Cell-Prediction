@@ -107,7 +107,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
-PlantVillage/
+dataset2-master/
 env.bak/
 venv.bak/
 
